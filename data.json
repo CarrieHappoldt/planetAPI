@@ -1,0 +1,83 @@
+[
+  {
+    "name" : "mercury",
+    "radius" : "1,516 miles",
+    "length of day" : "58d 15h 30m" ,
+    "distance from Sun" : "35.98 million milies",
+    "orbital period" : "88 days",
+    "mass" : "3.28 × 10^23 kg",
+    "planet order" : "1" 
+  },
+  {
+    "name" : "venus",
+    "radius" : "3,760 miles" ,
+    "length of day" : "116d 18h 0m",
+    "distance from Sun" : "67.24 million miles",
+    "orbital period" : "225 days",
+    "mass " : "4.86 × 10^24 kg",
+    "planet order" : "2" 
+  },
+  {
+    "name" : "earth",
+    "radius" : "6371 miles" ,
+    "length of day" : "1d 0h 0m",
+    "distance from Sun" : "92.96 million miles",
+    "orbital period" : "365 days",
+    "mass " : "5.97 ×10^24 kg",
+    "planet order" : "3" 
+  },
+  {
+    "name" : "mars",
+    "radius" : "2,106 miles" ,
+    "length of day" : "1d 0h 40m",
+    "distance from Sun" : "141.6 million miles",
+    "orbital period" : "687 days",
+    "mass " : "6.39 × 10^23 kg",
+    "planet order" : "4" 
+  },
+  {
+    "name" : "jupiter",
+    "radius" : "43,441 miles" ,
+    "length of day" : "0d 9h 56m",
+    "distance from Sun" : "483.8 million miles",
+    "orbital period" : "4,332 days",
+    "mass " : "1.89 × 10^27 kg",
+    "planet order" : "5" 
+  },
+  {
+    "name" : "saturn",
+    "radius" : "36,184 miles" ,
+    "length of day" : "0d 10h 42m",
+    "distance from Sun" : "888.2 million miles",
+    "orbital period" : "10,759 days",
+    "mass " : "5.68 × 10^26 kg",
+    "planet order" : "6" 
+  },
+  {
+    "name" : "uranus",
+    "radius" : "15,759 miles" ,
+    "length of day" : "0d 17h 14m",
+    "distance from Sun" : "1.784 billion miles",
+    "orbital period" : "370 days",
+    "mass " : "8.681 × 10^25 kg",
+    "planet order" : "7" 
+  },
+  {
+    "name" : "neptune",
+    "radius" : "15,299 miles" ,
+    "length of day" : "0d 16h 6m",
+    "distance from Sun" : "2.795 billion miles",
+    "orbital period" : "164.8 days",
+    "mass " : "1.02 × 10^26 kg",
+    "planet order" : "8" 
+  },
+  {
+    "name" : "pluto",
+    "radius" : "737.6 miles" ,
+    "length of day" : "6d 9h 36m",
+    "distance from Sun" : "3.67 billion miles",
+    "orbital period" : "248 days",
+    "mass " : "1.30 × 10^22 kg",
+    "planet order" : "9" 
+  }
+]
